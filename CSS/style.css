@@ -165,7 +165,7 @@ nav .hamburger-menu {
 /* Hero Section */
 .hero {
   width: 100%;
-  height: 100dvh;
+  height: 100vh;
   padding: 0 10%;
   background: url('../Media/misty-morning.webp');
   background-repeat: no-repeat;
